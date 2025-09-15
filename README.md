@@ -5,6 +5,7 @@ Integrantes:
 Enzo Lopes de Paula
 Tiago Gabriel Morais de Oliveira e Silva
 Tainara Stefany de Freitas Santos
+Geovana toledo de souza
 
 Nosso projeto tem como objetivo principal facilitar o acesso das pessoas aos cuidados com a saúde, com a nossa plataforma digital. O site foi criado para que o paciente agende consultas médicas com facilidade, sem a necessidade de ir ao um posto de saúde ou hospital. Para maior flexibilidade, o site oferece consultas online e presenciais quando possível.
 
