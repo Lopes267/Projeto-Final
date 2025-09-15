@@ -1,5 +1,5 @@
 Site de Convenio Medico
-Escola Técnica Dr. Geraldo José Rodrigues Alckmin
+ ETEC: Escola Técnica Dr. Geraldo José Rodrigues Alckmin
 
 Integrantes:
 Enzo Lopes de Paula
