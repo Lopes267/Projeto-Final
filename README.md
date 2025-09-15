@@ -1,0 +1,1 @@
+Projeto de Convenio Medico, Usando de BackEnd em Py e scripst em Js, FrontEnd em Html e Css, Para funcionamento do Arquivo, rode o PY no Cmd como servidor para ele fazer o registro dos dados no banco de dados em json 
