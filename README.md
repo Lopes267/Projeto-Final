@@ -1,1 +1,17 @@
-Projeto de Convenio Medico, Usando de BackEnd em Py e scripst em Js, FrontEnd em Html e Css, Para funcionamento do Arquivo, rode o PY no Cmd como servidor para ele fazer o registro dos dados no banco de dados em json 
+Site de Convenio Medico
+Escola Técnica Dr. Geraldo José Rodrigues Alckmin
+
+Integrantes:
+Enzo Lopes de Paula
+Tiago Gabriel Morais de Oliveira e Silva
+Tainara Stefany de Freitas Santos
+
+Nosso projeto tem como objetivo principal facilitar o acesso das pessoas aos cuidados com a saúde, com a nossa plataforma digital. O site foi criado para que o paciente agende consultas médicas com facilidade, sem a necessidade de ir ao um posto de saúde ou hospital. Para maior flexibilidade, o site oferece consultas online e presenciais quando possível.
+
+Para Funcionamento do Projeto:
+Deve se ter Instalado JavaScript, python, Html, Css
+Extensoes Py: Flask
+Flask_cors
+werkzeug
+Em Servidor Local o o Python deve ser ativado em segundo plano em modo de servidor pelo cmd, para linkar o banco de dados ao resto do projeto
+
